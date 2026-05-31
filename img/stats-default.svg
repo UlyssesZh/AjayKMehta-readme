@@ -1,15 +1,15 @@
 
       <svg
-        width="304"
+        width="310.39999866485596"
         height="215"
-        viewBox="0 0 304 215"
+        viewBox="0 0 310.39999866485596 215"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Ajay Mehta's GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 4, Total Commits  : 4361, Total PRs: 43, Total PRs Merged: 34, Total Issues: 57, Total Discussions Started: 5, Contributed to (last year): 6</desc>
+        <title id="titleId">Ulysses Zhan's GitHub Stats, Rank: A+</title>
+        <desc id="descId">Total Stars Earned: 283, Total Commits  : 3417, Total PRs: 229, Total PRs Merged: 150, Total Issues: 589, Total Discussions Started: 35, Contributed to (last year): 106</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 127.07951133118576;
+        stroke-dashoffset: 21.778751464965833;
       }
     }
   
@@ -110,7 +110,7 @@
           rx="4.5"
           height="99%"
           stroke="#e4e2e2"
-          width="303"
+          width="309.39999866485596"
           fill="#fffefe"
           stroke-opacity="0"
         />
@@ -137,7 +137,7 @@
         x="224.01"
         y="12.5"
         data-testid="stars"
-      >4</text>
+      >283</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -152,7 +152,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >4361</text>
+      >3417</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -167,7 +167,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >43</text>
+      >229</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -182,7 +182,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_merged"
-      >34</text>
+      >150</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -197,7 +197,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues"
-      >57</text>
+      >589</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
@@ -212,7 +212,7 @@
         x="224.01"
         y="12.5"
         data-testid="discussions_started"
-      >5</text>
+      >35</text>
     </g>
   </g><g transform="translate(0, 150)">
     <g class="stagger" style="animation-delay: 1350ms" transform="translate(25, 0)">
@@ -227,7 +227,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >6</text>
+      >106</text>
     </g>
   </g>
     </svg>
